@@ -4,4 +4,15 @@
 
 [x-cloak] {
     display: none;
+
+}
+
+@layer components {
+    h1 {
+        @apply text-7xl border border-gray-300;
+    }
+
+    h2 {
+        @apply text-7xl border text-red-400 ;
+    }
 }

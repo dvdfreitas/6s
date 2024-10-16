@@ -10,6 +10,14 @@ Route::get('/parceiros', function () {
     return view('parceiros');
 });
 
+Route::get('/sobre', function () {
+    return view('sobre');
+});
+
+Route::get('/galeria', function () {
+    return view('galeria');
+});
+
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),
