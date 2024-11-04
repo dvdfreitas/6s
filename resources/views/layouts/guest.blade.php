@@ -24,7 +24,7 @@
     </head>
     <body>
         <x-menu/>
-        <div class="font-sans text-gray-900 antialiased">
+        <div class="font-sans text-gray-900 antialiased max-w-3xl border m-auto p-4">
             {{ $slot }}
         </div>
         <x-footer/>

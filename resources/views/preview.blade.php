@@ -23,8 +23,8 @@
         <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet" />
     </head>
     <body class="m-8">
-        <img src="/images/logo_color.svg" class="max-w-xl m-auto" alt="Sexto Sentido Logo" />
-        <div class="m-auto text-center text-[#FF2D20] font-extralight">
+        <img src="/images/logo_color.svg" class="h-96 m-auto" alt="Sexto Sentido Logo" />
+        <div class="m-auto text-center text-[#ed6c2d] font-extralight">
             <p class="text-7xl">Em construção</p>
             <p class="text-3xl">Novidades em breve</p>
         </div>
